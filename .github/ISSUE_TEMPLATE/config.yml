@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: GitHub Community Support
+    url: https://github.com/neothan-dev/growth-social-ai-app/discussions
+    about: Please ask and answer questions here.
+  - name: Discord Community
+    url: https://discord.gg/growthsocialai
+    about: Join our Discord community for real-time discussions.
+  - name: Documentation
+    url: https://github.com/neothan-dev/growth-social-ai-app/wiki
+    about: Check our documentation for answers to common questions.
+  - name: Security Issues
+    url: https://github.com/neothan-dev/growth-social-ai-app/security
+    about: Report security vulnerabilities here.

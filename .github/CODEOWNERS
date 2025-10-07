@@ -1,0 +1,31 @@
+# Global owners
+* @neothan-dev
+
+# Documentation
+*.md @neothan-dev
+
+# Configuration files
+*.yml @neothan-dev
+*.yaml @neothan-dev
+*.json @neothan-dev
+
+# Security files
+SECURITY.md @neothan-dev
+.github/SECURITY.md @neothan-dev
+
+# Flutter/Dart files
+*.dart @neothan-dev
+
+# iOS specific
+ios/ @neothan-dev
+
+# Android specific
+android/ @neothan-dev
+
+# Web specific
+web/ @neothan-dev
+
+# Desktop specific
+windows/ @neothan-dev
+macos/ @neothan-dev
+linux/ @neothan-dev
